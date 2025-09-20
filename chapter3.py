@@ -1,4 +1,4 @@
-#chapter3,py
+#chapter3.py
 
 # The developer sat with there with his coffee thinkink about the next line of codes
 
