@@ -1,8 +1,7 @@
-# chapter_2.py
+# chapter_4.py
 
 
 # A new character, a knight named Sir Git, appeared from the shadows.
-
 # He carried a glowing sword, which hummed with the power of a thousand pull requests.
 
 
